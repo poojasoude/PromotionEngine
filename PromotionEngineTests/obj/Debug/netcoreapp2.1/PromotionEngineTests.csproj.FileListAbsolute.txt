@@ -1,0 +1,4 @@
+C:\Dhiraj\VSCode\PromotionEngine\PromotionEngineTests\obj\Debug\netcoreapp2.1\PromotionEngineTests.csprojAssemblyReference.cache
+C:\Dhiraj\VSCode\PromotionEngine\PromotionEngineTests\obj\Debug\netcoreapp2.1\PromotionEngineTests.csproj.CoreCompileInputs.cache
+C:\Dhiraj\VSCode\PromotionEngine\PromotionEngineTests\obj\Debug\netcoreapp2.1\PromotionEngineTests.AssemblyInfoInputs.cache
+C:\Dhiraj\VSCode\PromotionEngine\PromotionEngineTests\obj\Debug\netcoreapp2.1\PromotionEngineTests.AssemblyInfo.cs
